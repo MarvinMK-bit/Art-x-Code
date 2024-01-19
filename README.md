@@ -1,2 +1,2 @@
 # Art-x-Code
-The artworks I made that I hope to, well, improve, using cutting-edge pieces of code.
+The artworks I made. Will integrate them here with cutting-edge pieces of code.
